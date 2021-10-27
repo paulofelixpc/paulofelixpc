@@ -1,7 +1,7 @@
 ## Opa!Beleza? Eu sou o Paulo César!
 <div align="center">
   <a href="https://github.com/paulofelix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulofelixpc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulofelixpc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=150"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofelixpc&layout=compact&langs_count=7&theme=tokyonight&card_width=150&custom_title=Minhas Linguagens"/>
 </div>
 <div style="display: inline_block"><br>
