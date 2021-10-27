@@ -17,7 +17,7 @@
   <a href="https://t.me/paulocesardesousa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </div>
   <br>
-  "O Limite é uma barreira, criada pela sua mente."
+  <p>O Limite é uma barreira criada pela sua mente.</p>
   
  ## Tecnologias que uso hoje em dia
   
