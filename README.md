@@ -29,7 +29,7 @@
   <img align="center" alt="Paulo-Php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> 
   <img align="center" alt="Paulo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Paulo-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Paulo-NojeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/nodejs-original.svg"> 
+  <img align="center" alt="Paulo-NojeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
 </div>
  
   <div>   
