@@ -1,7 +1,7 @@
 ## Opa! Beleza? Eu sou o Paulo César!
 
 <div align="center">
-  <a href="https://github.com/paulofelix">
+  <a href="https://github.com/paulofelixpc">
     <img 
       src="https://streak-stats.demolab.com?user=paulofelixpc&theme=tokyonight&locale=pt-br" 
       alt="GitHub Contribuição Streak"
